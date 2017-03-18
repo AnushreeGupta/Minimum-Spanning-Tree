@@ -14,31 +14,53 @@ output the n-1 edges in the minimum spanning tree. Each line contains 2 integers
 and n, indicating the two end-points of an edge.
 
 Sample input 
+
 9 14
 
 1 2 5
 
 1 8 12
+
 2 3 8
+
 2 8 11
+
 3 4 13
+
 3 6 4
+
 3 9 2
+
 4 5 9
+
 4 6 14
+
 5 6 10
+
 6 7 3
+
 7 8 1
+
 7 9 6
+
 8 9 7
 
 Output for sample input
+
 42
+
 1 2
+
 2 3
+
 3 6
+
 3 9
+
 4 5
+
 5 6
+
 6 7
+
 7 8
