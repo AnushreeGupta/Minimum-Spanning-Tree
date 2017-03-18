@@ -8,14 +8,16 @@ number of edges in the graph. The vertices are indexed from 1 to n. You can assu
 w, with 1 < u < v < n and 1 < w < 106. This indicates that there is an edge (u; v) of weight
 w. You can also assume that the graph is connected and there are no parallel edges.
 
-Output: You need to output to the file \output.txt". The first line of the file is an integer
+Output: Write output to the file \output.txt". The first line of the file is an integer
 indicating the total weight of the minimum spanning tree. From line 2 to line n, you need to
 output the n-1 edges in the minimum spanning tree. Each line contains 2 integers between 1
 and n, indicating the two end-points of an edge.
 
 Sample input 
 9 14
+
 1 2 5
+
 1 8 12
 2 3 8
 2 8 11
